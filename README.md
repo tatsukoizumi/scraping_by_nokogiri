@@ -5,8 +5,8 @@
 -Use Ruby's Gem 'nokogiri'.
 -Got all players' data(2019/2020
 -Data I've got are...
- --Name
- --Birth of date
- --Height
- --Nationality
- --Football stats
+ -Name
+ -Birth of date
+ -Height
+ -Nationality
+ -Football stats
