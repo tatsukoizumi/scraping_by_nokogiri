@@ -1,4 +1,4 @@
-### プレミアリーグの全選手（2019/2020シーズン）のデータをスクレイピング
+### Get all English Premier League Players' data by nokogiri
 
-RubyのGemであるnokogiriを使用してworldfootball.netというサイトからデータを抽出しました。
-リンクは[こちら](https://www.worldfootball.net/)
+-Get data from [worldfootball.net](https://www.worldfootball.net/)
+
