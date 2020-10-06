@@ -4,6 +4,7 @@
 
 * Use Ruby's Gem 'nokogiri'.
 * Got all players' data(2019/2020)
+* Export to CSV
 
 * Data I've got are...
   * Name
